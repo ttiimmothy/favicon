@@ -1,5 +1,5 @@
 # Favicon
-[![ci](https://github.com/ttiimmothy/favicon/actions/workflows/ci.yaml/badge.svg)](https://github.com/ttiimmothy/favicon/actions/workflows/ci.yaml)
+[![ci](https://github.com/ttiimmothy/favicon/actions/workflows/ci.yml/badge.svg)](https://github.com/ttiimmothy/favicon/actions/workflows/ci.yml)
 
 This repository is for storing some recently used favicons.
 
