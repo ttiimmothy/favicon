@@ -9,11 +9,11 @@ on:
   workflow_dispatch:
 
 jobs:
-  build-and-show-the-files:
+  build-and-show-files:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
         uses: actions/checkout@v3
-      - name: Show the files 🔧
+      - name: Show Files
         run: |
           ls -al
